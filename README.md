@@ -1,13 +1,29 @@
-# README #
+# commentsystem
 
-This README would normally document whatever steps are necessary to get your application up and running.
+## Project setup
+```
+npm install
+```
 
-### What is this repository for? ###
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-Vuex Comment Reply Example
-### How do I get set up? ###
-clone the repo and npm run serve in terminal
+### Compiles and minifies for production
+```
+npm run build
+```
 
-### Who do I talk to? ###
+### Run your end-to-end tests
+```
+npm run test:e2e
+```
 
-Samuel Kariuki
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
